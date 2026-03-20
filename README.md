@@ -15,7 +15,7 @@ A Tampermonkey userscript that automatically skips strangers on ome.tv after a s
 ## Install
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for Chrome or Firefox
-2. Click [here](YOUR_RAW_URL_HERE) to install the script
+2. Click [here](https://github.com/Vipul1231-ne/omegle-time-skip/raw/refs/heads/main/Omegle%20Time-Skip%20Automation-1.0.0.user.js) to install the script
 3. Open ome.tv — the HUD appears automatically
 
 ## Config
